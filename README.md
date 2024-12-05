@@ -109,13 +109,41 @@ Os emblemas do Discord são conquistas épicas para deixar seu perfil mais legal
 
 Os seguintes emblemas estão incluídos nas novas tags de clã. Os donos de guilda podem personalizar e atribuí-los à sua guilda. Há um total de 21!
 
-[Tabela com os 21 emblemas mantida como no original]
+| Emblema | Nome | Emblema | Nome |
+|---------|------|---------|------|
+| <img src="/assets/guild/Anchor.svg"> | Âncora | <img src="/assets/guild/Pickaxe.svg"> | Picareta |
+| <img src="/assets/guild/Axe.svg"> | Machado | <img src="/assets/guild/Potion.svg"> | Poção |
+| <img src="/assets/guild/Book.svg"> | Livro | <img src="/assets/guild/Shield.svg"> | Escudo |
+| <img src="/assets/guild/Bow.svg"> | Arco | <img src="/assets/guild/Skull.svg"> | Caveira |
+| <img src="/assets/guild/Crown.svg"> | Coroa | <img src="/assets/guild/Spades.svg"> | Espadas |
+| <img src="/assets/guild/Fire.svg"> | Fogo | <img src="/assets/guild/Sword.svg"> | Espada |
+| <img src="/assets/guild/Fish.svg"> | Peixe | <img src="/assets/guild/Target.svg"> | Alvo |
+| <img src="/assets/guild/Hammer.svg"> | Martelo | <img src="/assets/guild/Tools.svg"> | Ferramentas |
+| <img src="/assets/guild/Heart.svg"> | Coração | <img src="/assets/guild/Torch.svg"> | Tocha |
+| <img src="/assets/guild/Leaf.svg"> | Folha | <img src="/assets/guild/Trophy.svg"> | Troféu |
+| <img src="/assets/guild/Mushroom.svg"> | Cogumelo | | |
 
 ## Hall da Fama
 
 Uma coleção de eventos únicos que aconteceram no Discord.
 
-[Seção mantida como no original, com tradução das explicações]
+### Evento de Lootbox do 1º de Abril
+Em 1º de abril de 2024, o Discord lançou um evento especial onde os usuários podiam ganhar recompensas através de lootboxes. Os usuários que completaram todas as recompensas receberam o emblema "Um palhaço, por tempo limitado".
+
+### Mudança para o Sistema de Nomes de Usuário
+Em maio de 2023, o Discord anunciou uma grande mudança no sistema de nomes de usuário. Os usuários que mudaram para o novo sistema receberam o emblema "Originalmente conhecido como".
+
+### Programa de Parceiros Discord
+Em 5 de outubro de 2023, o Discord encerrou o Programa de Parceiros. Os servidores que eram parceiros antes dessa data mantiveram seus emblemas, mas novos parceiros não podem mais ser adicionados.
+
+### Programa de Moderadores Discord
+Em 1º de dezembro de 2022, o Discord transformou o programa "Discord Certified Moderator" em "Moderator Programs Alumni". Os moderadores certificados mantiveram seus emblemas, mas o programa foi encerrado.
+
+### Desenvolvedor de Bot Verificado
+Em 19 de agosto de 2020, o Discord mudou os requisitos para bots verificados. Os desenvolvedores que tinham bots verificados antes dessa data receberam o emblema "Desenvolvedor de Bot Verificado Antigo".
+
+### Apoiadores Iniciais
+Em 10 de outubro de 2018, o Discord encerrou o programa de Apoiadores Iniciais. Os usuários que fizeram uma compra antes dessa data receberam o emblema "Apoiador Inicial".
 
 ## Registro de Alterações de Emblemas
 
@@ -128,3 +156,11 @@ Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alte
 | Alumni do Programa de Moderadores | Discord Certified Moderator | Moderator Programs Alumni | 2022-12-01 |
 | Parceiro Discord | [imagem antiga] | [imagem nova] | 2022-05-31 |
 | Desenvolvedor de Bot Verificado Antigo | Desenvolvedor de Bot Verificado | **Antigo** Desenvolvedor de Bot Verificado | 2020-08-19 |
+
+---
+
+**Nota**: Este documento é mantido pela comunidade e pode não estar 100% atualizado. Se você encontrar alguma informação incorreta ou desatualizada, por favor, abra uma issue ou pull request no repositório.
+
+**Créditos**:
+- Agradecimentos especiais a todos os contribuidores que ajudaram a manter esta documentação atualizada.
+- Tradução para português brasileiro por [Santos](https://github.com/aac8)
